@@ -1,4 +1,4 @@
-# Menu-de-calculos
+# Menu de cálculos 
 
 Atividade realizada na aula sobre a linguagem de programação, c#
 
